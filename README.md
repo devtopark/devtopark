@@ -1,4 +1,4 @@
-# 👋 Overview
+# 👋 Hi there
 
 이 저장소는 제가 학습한 내용과 실습 프로젝트들을 정리하고 공유하는 공간입니다.  
 단순한 복습을 넘어, 실무 감각을 기르기 위한 코드와 메모를 기록하고 있습니다.
@@ -13,7 +13,7 @@
 | 구분 | 내용 |
 |------|------|
 | 🔧 Backend & Data Framework | Python, SQL, FastAPI, Flask, Pandas, PySpark, Apache Spark, Kafka |
-| 🗄️ Database | Oracle, MySQL, PostgreSQL, MongoDB, Redis |
+| 🗄️ Database |  MySQL, PostgreSQL, SnowFlake, Oralce, MongoDB, Redis |
 | 📦 Workflow & Infrastructure | Apache Airflow, Docker, Kubernetes, GitHub Actions, AWS (EC2, S3, EMR) |
 | 📊 Monitoring & Logging | Elastic Stack (ELK), Prometheus *(optional)* |
 
